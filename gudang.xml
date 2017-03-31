@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE poolgudang SYSTEM "poolgudang.dtd">
+<poolgudang>
+	<gudang>
+		<kode>K123</kode>
+		<nama>ultra milk</nama>
+		<jenis>susu</jenis>
+		<isi_bersih>1000ml</isi_bersih>
+		<tgl_produksi>01-01-2015</tgl_produksi>
+		<tgl_kadaluwarsa>25-10-2017</tgl_kadaluwarsa>
+		<harga_satuan>16000</harga_satuan>
+		<jumlah_barang>50</jumlah_barang>
+		<PT>ultra jaya</PT>
+		<tujuan>
+			<pt>alfamart</pt>
+			<kodewil>11</kodewil>
+		</tujuan>
+	</gudang>
+	<gudang>
+		<kode>K111</kode>
+		<nama>Teh Kotak</nama>
+		<jenis>teh</jenis>
+		<isi_bersih>500ml</isi_bersih>
+		<tgl_produksi>07-07-2015</tgl_produksi>
+		<tgl_kadaluwarsa>07-10-2018</tgl_kadaluwarsa>
+		<harga_satuan>5000</harga_satuan>
+		<jumlah_barang>100</jumlah_barang>
+		<PT>ultra jaya</PT>
+		<tujuan>
+			<pt>indomaret</pt>
+			<kodewil>9</kodewil>
+		</tujuan>
+	</gudang>
+	<gudang>
+		<kode>K250</kode>
+		<nama>Sari Kacang Ijo</nama>
+		<jenis>minuman sari</jenis>
+		<isi_bersih>250ml</isi_bersih>
+		<tgl_produksi>10-09-2015</tgl_produksi>
+		<tgl_kadaluwarsa>07-01-2018</tgl_kadaluwarsa>
+		<harga_satuan>4000</harga_satuan>
+		<jumlah_barang>150</jumlah_barang>
+		<PT>ultra jaya</PT>
+		<tujuan>
+			<pt>yomart</pt>
+			<kodewil>15</kodewil>
+		</tujuan>
+	</gudang>
+	<gudang>
+		<kode>K150</kode>
+		<nama>Susu Sehat</nama>
+		<jenis>susu</jenis>
+		<isi_bersih>150ml</isi_bersih>
+		<tgl_produksi>09-02-2015</tgl_produksi>
+		<tgl_kadaluwarsa>07-11-2018</tgl_kadaluwarsa>
+		<harga_satuan>3000</harga_satuan>
+		<jumlah_barang>200</jumlah_barang>
+		<PT>ultra jaya</PT>
+		<tujuan>
+			<pt>giant</pt>
+			<kodewil>9</kodewil>
+		</tujuan>
+	</gudang>
+	<gudang>
+		<kode>K180</kode>
+		<nama>Sari Asem Asli</nama>
+		<jenis>minuman sari</jenis>
+		<isi_bersih>250ml</isi_bersih>
+		<tgl_produksi>10-12-2015</tgl_produksi>
+		<tgl_kadaluwarsa>07-07-2019</tgl_kadaluwarsa>
+		<harga_satuan>5500</harga_satuan>
+		<jumlah_barang>150</jumlah_barang>
+		<PT>ultra jaya</PT>
+		<tujuan>
+			<pt>yomart</pt>
+			<kodewil>19</kodewil>
+		</tujuan>
+	</gudang>
+		<gudang>
+		<kode>K132</kode>
+		<nama>Teh Bunga</nama>
+		<jenis>Teh</jenis>
+		<isi_bersih>250ml</isi_bersih>
+		<tgl_produksi>15-12-2015</tgl_produksi>
+		<tgl_kadaluwarsa>07-07-2019</tgl_kadaluwarsa>
+		<harga_satuan>6000</harga_satuan>
+		<jumlah_barang>100</jumlah_barang>
+		<PT>ultra jaya</PT>
+		<tujuan>
+			<pt>giant</pt>
+			<kodewil>8</kodewil>
+		</tujuan>
+	</gudang>
+</poolgudang>

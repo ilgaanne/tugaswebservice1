@@ -1,0 +1,58 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT poolgudang (gudang)+>
+<!ATTLIST poolgudang
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT gudang (kode,nama,jenis,isi_bersih,tgl_produksi,tgl_kadaluwarsa,
+                  harga_satuan,jumlah_barang,PT,tujuan)>
+<!ATTLIST gudang
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kode (#PCDATA)>
+<!ATTLIST kode
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nama (#PCDATA)>
+<!ATTLIST nama
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT jenis (#PCDATA)>
+<!ATTLIST jenis
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT isi_bersih (#PCDATA)>
+<!ATTLIST isi_bersih
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT tgl_produksi (#PCDATA)>
+<!ATTLIST tgl_produksi
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT tgl_kadaluwarsa (#PCDATA)>
+<!ATTLIST tgl_kadaluwarsa
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT harga_satuan (#PCDATA)>
+<!ATTLIST harga_satuan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT jumlah_barang (#PCDATA)>
+<!ATTLIST jumlah_barang
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT PT (#PCDATA)>
+<!ATTLIST PT
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT tujuan (pt,kodewil)>
+<!ATTLIST tujuan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT pt (#PCDATA)>
+<!ATTLIST pt
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kodewil (#PCDATA)>
+<!ATTLIST kodewil
+    xmlns CDATA #FIXED ''>
